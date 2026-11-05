@@ -1,0 +1,23 @@
+{
+  "name": "liberusoftware/ecommerce-order-orchestration-filament",
+  "description": "Order Orchestration Filament presentation module skeleton",
+  "type": "liberu-module",
+  "license": "MIT",
+  "require": {
+    "php": "^8.5",
+    "filament/filament": "^5.11"
+  },
+  "autoload": {
+    "psr-4": {
+      "Liberu\\Presentation\\Capabilitya57b9be7b11e\\": "src/"
+    }
+  },
+  "scripts": {
+    "check": "@php -l src/CapabilityPlugin.php"
+  },
+  "extra": {
+    "liberu": {
+      "name": "ecommerce-order-orchestration-filament"
+    }
+  }
+}

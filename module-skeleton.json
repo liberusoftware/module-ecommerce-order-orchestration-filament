@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-order-orchestration-filament",
+  "capabilityKey": "planned:ecommerce:order-orchestration",
+  "presentation": "laravel-filament",
+  "package": "liberusoftware/ecommerce-order-orchestration-filament",
+  "foundation": "module-boilerplate-filament",
+  "foundationCommit": "9282e55622b1abd4db48da891480cd9cac46c158",
+  "canonicalPlan": "projects/ecommerce/nextjs/order-orchestration.md",
+  "presentationPlan": "projects/ecommerce/filament/order-orchestration.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
